@@ -3,11 +3,11 @@
  * Plugin Name:			Ocean Social Sharing
  * Plugin URI:			https://oceanwp.org/extension/ocean-social-sharing/
  * Description:			A simple plugin to add social share buttons to your posts.
- * Version:				1.0.15
+ * Version:				1.0.16
  * Author:				OceanWP
  * Author URI:			https://oceanwp.org/
  * Requires at least:	4.5.0
- * Tested up to:		5.2
+ * Tested up to:		5.3.2
  *
  * Text Domain: ocean-social-sharing
  * Domain Path: /languages/
@@ -86,7 +86,7 @@ final class Ocean_Social_Sharing {
 		$this->token 			= 'ocean-social-sharing';
 		$this->plugin_url 		= plugin_dir_url( __FILE__ );
 		$this->plugin_path 		= plugin_dir_path( __FILE__ );
-		$this->version 			= '1.0.15';
+		$this->version 			= '1.0.16';
 
 		register_activation_hook( __FILE__, array( $this, 'install' ) );
 

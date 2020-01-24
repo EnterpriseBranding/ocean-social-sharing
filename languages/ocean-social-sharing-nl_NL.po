@@ -1,40 +1,40 @@
+# Copyright (C) 2016 
+# This file is distributed under the same license as the  package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Ocean Social Sharing\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
-"POT-Creation-Date: 2020-01-24 10:32+0100\n"
-"PO-Revision-Date: 2020-01-24 10:34+0100\n"
-"Last-Translator: sabiertas <angel@solucionesabiertas.es>\n"
-"Language-Team: Spanish (Spain)\n"
-"Language: es_ES\n"
+"POT-Creation-Date: 2020-01-24 09:59+0100\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-01-24 20:55+0100\n"
+"Language-Team: OceanWP\n"
 "X-Generator: Poedit 2.2.4\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;"
-"esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
-"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
 "X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"Language: nl\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: ocean-social-sharing.php:132 ocean-social-sharing.php:141
 msgid "Cheatin&#8217; huh?"
-msgstr "¿Haciendo trampas?"
+msgstr ""
 
 #: ocean-social-sharing.php:207
 msgid "Social Sharing"
-msgstr "Compartir en redes sociales"
+msgstr "Sociaal Delen"
 
 #: ocean-social-sharing.php:232
 msgid "Sharing Buttons"
-msgstr "Botones de compartir"
+msgstr "Sociaal Delen Knoppen"
 
 #: ocean-social-sharing.php:260
 msgid "Position"
-msgstr ""
+msgstr "Positie"
 
 #: ocean-social-sharing.php:266
 msgid "Before the Content"
@@ -54,75 +54,75 @@ msgstr ""
 
 #: ocean-social-sharing.php:283
 msgid "Add Social Name"
-msgstr ""
+msgstr "Sociaal Naam Toevoegen"
 
 #: ocean-social-sharing.php:294
 msgid "Please Share This"
-msgstr "Por favor comparte esto"
+msgstr "Deel dit"
 
 #: ocean-social-sharing.php:300
 msgid "Sharing Heading"
-msgstr ""
+msgstr "Sociaal Delen Titel"
 
 #: ocean-social-sharing.php:317
 msgid "Heading Position"
-msgstr ""
+msgstr "Titel Positie"
 
 #: ocean-social-sharing.php:323
 msgid "Side"
-msgstr ""
+msgstr "Zijkant"
 
 #: ocean-social-sharing.php:324
 msgid "Top"
-msgstr ""
+msgstr "Top"
 
 #: ocean-social-sharing.php:337
 msgid "Twitter Username"
-msgstr ""
+msgstr "Twitter Gebruikersnaam"
 
 #: ocean-social-sharing.php:352
 msgid "Styling"
-msgstr ""
+msgstr "Stijlen"
 
 #: ocean-social-sharing.php:367
 msgid "Style"
-msgstr ""
+msgstr "Stijl"
 
 #: ocean-social-sharing.php:373
 msgid "Minimal"
-msgstr ""
+msgstr "Minimaal"
 
 #: ocean-social-sharing.php:374
 msgid "Colored"
-msgstr ""
+msgstr "Gekleurd"
 
 #: ocean-social-sharing.php:375
 msgid "Dark"
-msgstr ""
+msgstr "Donker"
 
 #: ocean-social-sharing.php:388
 msgid "Border Radius"
-msgstr ""
+msgstr "Randradius"
 
 #: ocean-social-sharing.php:389
 msgid "Add a custom border radius. px - em - %."
-msgstr ""
+msgstr "Custom randradius toevoegen. px - em - %."
 
 #: ocean-social-sharing.php:405
 msgid "Minimal Style: Borders Color"
-msgstr ""
+msgstr "Minimaal Stijl: Rand Kleur"
 
 #: ocean-social-sharing.php:420
 msgid "Minimal Style: Background Color"
-msgstr ""
+msgstr "Minimaal Stijl: Achtergrond Kleur"
 
 #: ocean-social-sharing.php:435
 msgid "Minimal Style: Color"
-msgstr ""
+msgstr "Minimaal Stijl: Kleur"
 
 #: template/social-share.php:99
 msgid "Share on Twitter"
-msgstr "Compartir en twiter"
+msgstr "Deel op Twitter"
 
 #: template/social-share.php:109
 msgid "Twitter"
@@ -130,7 +130,7 @@ msgstr "Twitter"
 
 #: template/social-share.php:121
 msgid "Share on Facebook"
-msgstr "Compartir en Facebook"
+msgstr "Deel op Facebook"
 
 #: template/social-share.php:132
 msgid "Facebook"
@@ -138,7 +138,7 @@ msgstr "Facebook"
 
 #: template/social-share.php:144
 msgid "Share on Google+"
-msgstr "Compartir en Google+"
+msgstr "Deel op Google+"
 
 #: template/social-share.php:158
 msgid "Google+"
@@ -146,7 +146,7 @@ msgstr "Google+"
 
 #: template/social-share.php:170
 msgid "Share on Pinterest"
-msgstr "Compartir en Pinterest"
+msgstr "Deel op Pinterest"
 
 #: template/social-share.php:187
 msgid "Pinterest"
@@ -154,7 +154,7 @@ msgstr "Pinterest"
 
 #: template/social-share.php:199
 msgid "Share on LinkedIn"
-msgstr "Compartir en LinkedIn"
+msgstr "Deel op LinkedIn"
 
 #: template/social-share.php:212
 msgid "LinkedIn"
@@ -162,7 +162,7 @@ msgstr "LinkedIn"
 
 #: template/social-share.php:224
 msgid "Share on Viber"
-msgstr "Compartir en Viber"
+msgstr "Deel op Viber"
 
 #: template/social-share.php:255
 msgid "Viber"
@@ -170,7 +170,7 @@ msgstr "Viber"
 
 #: template/social-share.php:267
 msgid "Share on VK"
-msgstr "Compartir en VK"
+msgstr "Deel op VK"
 
 #: template/social-share.php:277
 msgid "VK"
@@ -178,7 +178,7 @@ msgstr "VK"
 
 #: template/social-share.php:289
 msgid "Share on Reddit"
-msgstr "Compartir en Reddit"
+msgstr "Deel op Reddit"
 
 #: template/social-share.php:312
 msgid "Reddit"
@@ -186,7 +186,7 @@ msgstr "Reddit"
 
 #: template/social-share.php:324
 msgid "Share on Tumblr"
-msgstr "Compartir en Tumblr"
+msgstr "Deel op Tumblr"
 
 #: template/social-share.php:339
 msgid "Tumblr"
@@ -194,7 +194,7 @@ msgstr "Tumblr"
 
 #: template/social-share.php:351
 msgid "Share on Viadeo"
-msgstr "Compartir en Viadeo"
+msgstr "Deel op Viadeo"
 
 #: template/social-share.php:372
 msgid "Viadeo"
@@ -202,18 +202,8 @@ msgstr "Viadeo"
 
 #: template/social-share.php:384
 msgid "Share on WhatsApp"
-msgstr "Compartir en WhatsApp"
+msgstr "Deel op WhatsApp"
 
 #: template/social-share.php:404
 msgid "WhatsApp"
 msgstr "WhatsApp"
-
-#~ msgid ""
-#~ "Ocean Social Sharing requires that you use ocean as your parent theme."
-#~ msgstr "Ocean Social Sharing necesita que OceanWP sea el tema padre."
-
-#~ msgid "Install Ocean Now"
-#~ msgstr "Instalar OceanWP ahora"
-
-#~ msgid "Icons Color"
-#~ msgstr "Color de los iconos"
