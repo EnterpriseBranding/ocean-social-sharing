@@ -1,11 +1,18 @@
 === Ocean Social Sharing ===
-Contributors: oceanwp
+Contributors: oceanwp, apprimit, wpfleek
 Tags: social, social sharing, social share, share, oceanwp
 Requires at least: 4.5
-Tested up to: 5.3.2
+Tested up to: 5.4
 Stable tag: 1.0.16
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+
+Website: https://oceanwp.org/
+Support: https://oceanwp.org/support/
+Documentation: https://docs.oceanwp.org/
+Extensions: https://oceanwp.org/extensions/
+Email: support@oceanwp.org
 
 == Description ==
 
@@ -34,6 +41,11 @@ This plugin requires the [OceanWP](https://oceanwp.org/) theme to be installed.
 
 This plugin will only function with the [OceanWP](https://oceanwp.org/) theme.
 
+== Ocean Social Sharing License ==
+
+Ocean Social Sharing is licensed under the GNU General Public License v2 or later
+More details here: https://www.gnu.org/licenses/gpl-2.0.html
+
 == Screenshots ==
 
 1. Minimal style.
@@ -46,9 +58,25 @@ This plugin will only function with the [OceanWP](https://oceanwp.org/) theme.
 8. Without Heading.
 9. Settings.
 
+== Copyright ==
+
+Ocean Social Sharing WordPress Plugin, Copyright 2020 OceanWP.org
+Ocean Social Sharing is distributed under the terms of the GNU GPL.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
 == Changelog ==
 
 = 1.0.16 =
+- Added: Improved Accessibility.
 - Added: Dutch translation.
 - Updated: Language translation strings.
 - Updated: readme.txt file.
