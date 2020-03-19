@@ -120,7 +120,7 @@ final class Ocean_Social_Sharing {
 	 * @return  void
 	 */
 	public function oss_load_plugin_textdomain() {
-		load_plugin_textdomain( 'ocean-social-sharing', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
+		load_plugin_textdomain( 'ocean-social-sharing', false, dirname( plugin_basename( __FILE__ ) ) . '/languages' );
 	}
 
 	/**
