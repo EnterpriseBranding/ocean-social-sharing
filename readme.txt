@@ -1,7 +1,7 @@
 === Ocean Social Sharing ===
 Contributors: oceanwp, apprimit, wpfleek
 Tags: social, social sharing, social share, share, oceanwp
-Requires at least: 4.5
+Requires at least: 5.0
 Tested up to: 5.4
 Requires PHP: 7.0
 Stable tag: 1.0.16
